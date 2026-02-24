@@ -11,4 +11,3 @@ You can change the themeby setting the  THEME variable in main.py by one the The
 
 assets used are from the windows xp version of minesweeper.
 
-
